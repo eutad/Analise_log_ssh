@@ -1,0 +1,704 @@
+Oct  2 09:09:01 TheCybers CRON[4928]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 09:09:01 TheCybers CRON[4928]: pam_unix(cron:session): session closed for user root
+Oct  2 09:11:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 09:11:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 09:17:01 TheCybers CRON[5431]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 09:17:01 TheCybers CRON[5431]: pam_unix(cron:session): session closed for user root
+Oct  2 09:17:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 09:17:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 09:21:14 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-update auth (only_trusted:1)
+Oct  2 09:21:19 TheCybers polkitd(authority=local): Operator of unix-session:3 successfully authenticated as unix-user:root to gain TEMPORARY authorization for action org.freedesktop.packagekit.system-update for system-bus-name::1.623 [/usr/bin/plasma-discover --mode update] (owned by unix-user:alex)
+Oct  2 09:21:19 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-update
+Oct  2 09:21:57 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 09:21:57 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 09:23:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 09:23:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 09:29:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 09:29:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 09:35:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 09:35:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 09:39:01 TheCybers CRON[8421]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 09:39:01 TheCybers CRON[8421]: pam_unix(cron:session): session closed for user root
+Oct  2 09:41:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 09:41:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 09:47:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 09:47:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 09:53:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 09:53:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 09:59:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 09:59:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 10:05:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 10:05:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 10:09:01 TheCybers CRON[10823]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 10:09:01 TheCybers CRON[10823]: pam_unix(cron:session): session closed for user root
+Oct  2 10:11:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 10:11:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 10:17:01 TheCybers CRON[11290]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 10:17:01 TheCybers CRON[11290]: pam_unix(cron:session): session closed for user root
+Oct  2 10:17:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 10:17:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 10:23:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 10:23:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 10:29:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 10:29:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 10:35:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 10:35:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 10:35:57 TheCybers sudo:     alex : TTY=pts/1 ; PWD=/home/alex ; USER=root ; COMMAND=/usr/local/bin/pip install py_compile
+Oct  2 10:35:57 TheCybers sudo: pam_unix(sudo:session): session opened for user root by alex(uid=0)
+Oct  2 10:35:58 TheCybers sudo: pam_unix(sudo:session): session closed for user root
+Oct  2 10:39:01 TheCybers CRON[13320]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 10:39:01 TheCybers CRON[13320]: pam_unix(cron:session): session closed for user root
+Oct  2 10:41:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 10:41:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 10:47:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 10:47:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 10:53:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 10:53:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 10:59:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 10:59:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 11:05:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 11:05:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 11:09:01 TheCybers CRON[15714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 11:09:01 TheCybers CRON[15714]: pam_unix(cron:session): session closed for user root
+Oct  2 11:11:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 11:11:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 11:17:01 TheCybers CRON[16200]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 11:17:01 TheCybers CRON[16200]: pam_unix(cron:session): session closed for user root
+Oct  2 11:17:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 11:17:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 11:23:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 11:23:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 11:26:07 TheCybers sudo:     alex : TTY=pts/1 ; PWD=/home/alex/Downloads ; USER=root ; COMMAND=/bin/chmod a+x VMware-Workstation-Full-11.0.0-2305329.x86_64.bundle
+Oct  2 11:26:07 TheCybers sudo: pam_unix(sudo:session): session opened for user root by alex(uid=0)
+Oct  2 11:26:07 TheCybers sudo: pam_unix(sudo:session): session closed for user root
+Oct  2 11:27:00 TheCybers sudo:     alex : TTY=pts/1 ; PWD=/home/alex/Downloads ; USER=root ; COMMAND=./VMware-Workstation-Full-11.0.0-2305329.x86_64.bundle
+Oct  2 11:27:00 TheCybers sudo: pam_unix(sudo:session): session opened for user root by alex(uid=0)
+Oct  2 11:27:00 TheCybers su[17254]: Successful su for alex by root
+Oct  2 11:27:00 TheCybers su[17254]: + ??? root:alex
+Oct  2 11:27:00 TheCybers su[17254]: pam_unix(su:session): session opened for user alex by (uid=0)
+Oct  2 11:27:00 TheCybers su[17254]: pam_systemd(su:session): Cannot create session: Already running in a session
+Oct  2 11:27:00 TheCybers su[17254]: pam_unix(su:session): session closed for user alex
+Oct  2 11:27:00 TheCybers su[17257]: Successful su for alex by root
+Oct  2 11:27:00 TheCybers su[17257]: + ??? root:alex
+Oct  2 11:27:00 TheCybers su[17257]: pam_unix(su:session): session opened for user alex by (uid=0)
+Oct  2 11:27:00 TheCybers su[17257]: pam_systemd(su:session): Cannot create session: Already running in a session
+Oct  2 11:27:00 TheCybers su[17257]: pam_unix(su:session): session closed for user alex
+Oct  2 11:27:04 TheCybers sudo: pam_unix(sudo:session): session closed for user root
+Oct  2 11:27:41 TheCybers sudo:     alex : TTY=pts/2 ; PWD=/home/alex/Downloads ; USER=root ; COMMAND=/bin/sh -c DISPLAY=:0 XAUTHORITY=/tmp/libgksu-WbjyVi/.Xauthority  '/usr/bin/vmware-modconfig' --icon='vmware-workstation' --appname='VMware'
+Oct  2 11:27:41 TheCybers sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Oct  2 11:27:42 TheCybers su[17330]: Successful su for alex by root
+Oct  2 11:27:42 TheCybers su[17330]: + ??? root:alex
+Oct  2 11:27:42 TheCybers su[17330]: pam_unix(su:session): session opened for user alex by (uid=0)
+Oct  2 11:27:42 TheCybers su[17330]: pam_systemd(su:session): Cannot create session: Already running in a session
+Oct  2 11:27:42 TheCybers su[17330]: pam_unix(su:session): session closed for user alex
+Oct  2 11:27:42 TheCybers su[17333]: Successful su for alex by root
+Oct  2 11:27:42 TheCybers su[17333]: + ??? root:alex
+Oct  2 11:27:42 TheCybers su[17333]: pam_unix(su:session): session opened for user alex by (uid=0)
+Oct  2 11:27:42 TheCybers su[17333]: pam_systemd(su:session): Cannot create session: Already running in a session
+Oct  2 11:27:42 TheCybers su[17333]: pam_unix(su:session): session closed for user alex
+Oct  2 11:29:09 TheCybers sudo: pam_unix(sudo:session): session closed for user root
+Oct  2 11:29:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 11:29:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 11:31:17 TheCybers sudo:     alex : TTY=pts/1 ; PWD=/home/alex/Downloads ; USER=root ; COMMAND=/bin/nano /tmp/filter.c.diff
+Oct  2 11:31:17 TheCybers sudo: pam_unix(sudo:session): session opened for user root by alex(uid=0)
+Oct  2 11:33:11 TheCybers sudo: pam_unix(sudo:session): session closed for user root
+Oct  2 11:33:21 TheCybers sudo:     alex : TTY=pts/1 ; PWD=/home/alex/Downloads ; USER=root ; COMMAND=/bin/bash
+Oct  2 11:33:21 TheCybers sudo: pam_unix(sudo:session): session opened for user root by alex(uid=0)
+Oct  2 11:35:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 11:35:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 11:36:33 TheCybers su[19343]: Successful su for alex by root
+Oct  2 11:36:33 TheCybers su[19343]: + ??? root:alex
+Oct  2 11:36:33 TheCybers su[19343]: pam_unix(su:session): session opened for user alex by (uid=0)
+Oct  2 11:36:33 TheCybers su[19343]: pam_systemd(su:session): Cannot create session: Already running in a session
+Oct  2 11:36:33 TheCybers su[19343]: pam_unix(su:session): session closed for user alex
+Oct  2 11:36:33 TheCybers su[19346]: Successful su for alex by root
+Oct  2 11:36:33 TheCybers su[19346]: + ??? root:alex
+Oct  2 11:36:33 TheCybers su[19346]: pam_unix(su:session): session opened for user alex by (uid=0)
+Oct  2 11:36:33 TheCybers su[19346]: pam_systemd(su:session): Cannot create session: Already running in a session
+Oct  2 11:36:33 TheCybers su[19346]: pam_unix(su:session): session closed for user alex
+Oct  2 11:39:01 TheCybers CRON[20476]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 11:39:01 TheCybers CRON[20476]: pam_unix(cron:session): session closed for user root
+Oct  2 11:41:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 11:41:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 11:47:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 11:47:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 11:49:12 TheCybers sudo:     alex : TTY=pts/2 ; PWD=/home/alex ; USER=root ; COMMAND=/bin/sh -c DISPLAY=:0 XAUTHORITY=/tmp/libgksu-NUdjxG/.Xauthority  '/usr/bin/vmware-modconfig' --icon='vmware-workstation' --appname='VMware'
+Oct  2 11:49:12 TheCybers sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Oct  2 11:49:12 TheCybers su[21563]: Successful su for alex by root
+Oct  2 11:49:12 TheCybers su[21563]: + ??? root:alex
+Oct  2 11:49:12 TheCybers su[21563]: pam_unix(su:session): session opened for user alex by (uid=0)
+Oct  2 11:49:12 TheCybers su[21563]: pam_systemd(su:session): Cannot create session: Already running in a session
+Oct  2 11:49:12 TheCybers su[21563]: pam_unix(su:session): session closed for user alex
+Oct  2 11:49:12 TheCybers su[21566]: Successful su for alex by root
+Oct  2 11:49:12 TheCybers su[21566]: + ??? root:alex
+Oct  2 11:49:12 TheCybers su[21566]: pam_unix(su:session): session opened for user alex by (uid=0)
+Oct  2 11:49:12 TheCybers su[21566]: pam_systemd(su:session): Cannot create session: Already running in a session
+Oct  2 11:49:12 TheCybers su[21566]: pam_unix(su:session): session closed for user alex
+Oct  2 11:49:23 TheCybers sudo: pam_unix(sudo:session): session closed for user root
+Oct  2 11:51:15 TheCybers sudo:     root : TTY=pts/1 ; PWD=/home/alex ; USER=root ; COMMAND=/usr/bin/apt-get remove qemu-system-common qemu-system-x86 qemu-utils
+Oct  2 11:51:15 TheCybers sudo: pam_unix(sudo:session): session opened for user root by alex(uid=0)
+Oct  2 11:51:18 TheCybers sudo: pam_unix(sudo:session): session closed for user root
+Oct  2 11:53:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 11:53:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 11:59:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 11:59:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:05:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:05:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:09:01 TheCybers CRON[24216]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 12:09:01 TheCybers CRON[24216]: pam_unix(cron:session): session closed for user root
+Oct  2 12:11:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:11:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:17:01 TheCybers CRON[24670]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 12:17:01 TheCybers CRON[24670]: pam_unix(cron:session): session closed for user root
+Oct  2 12:17:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:17:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:23:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:23:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:29:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:29:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:35:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:35:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:39:01 TheCybers CRON[26471]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 12:39:01 TheCybers CRON[26471]: pam_unix(cron:session): session closed for user root
+Oct  2 12:41:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:41:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:44:21 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:44:21 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:47:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:47:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:53:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:53:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 12:59:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 12:59:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:03:34 TheCybers sudo: pam_unix(sudo:session): session closed for user root
+Oct  2 13:05:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 13:05:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:09:01 TheCybers CRON[29282]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 13:09:01 TheCybers CRON[29282]: pam_unix(cron:session): session closed for user root
+Oct  2 13:11:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 13:11:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:17:01 TheCybers CRON[29773]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 13:17:01 TheCybers CRON[29773]: pam_unix(cron:session): session closed for user root
+Oct  2 13:17:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 13:17:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:23:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 13:23:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:29:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 13:29:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:35:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 13:35:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:39:01 TheCybers CRON[31793]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 13:39:01 TheCybers CRON[31793]: pam_unix(cron:session): session closed for user root
+Oct  2 13:41:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 13:41:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:47:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 13:47:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:53:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 13:53:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:59:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 13:59:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 13:59:56 TheCybers unix_chkpwd[1186]: password check failed for user (alex)
+Oct  2 13:59:56 TheCybers kcheckpass[1184]: pam_unix(kde:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser= rhost=  user=alex
+Oct  2 13:59:56 TheCybers kcheckpass[1184]: Authentication failure for alex (invoked by uid 1000)
+Oct  2 14:05:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 14:05:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 14:09:01 TheCybers CRON[1770]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 14:09:01 TheCybers CRON[1770]: pam_unix(cron:session): session closed for user root
+Oct  2 14:11:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 14:11:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 14:17:01 TheCybers CRON[2235]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 14:17:01 TheCybers CRON[2235]: pam_unix(cron:session): session closed for user root
+Oct  2 14:17:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 14:17:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 14:23:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 14:23:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 14:29:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 14:29:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 14:35:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 14:35:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 14:39:01 TheCybers CRON[4334]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 14:39:01 TheCybers CRON[4334]: pam_unix(cron:session): session closed for user root
+Oct  2 14:41:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 14:41:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 14:47:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 14:47:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 14:53:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 14:53:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 14:59:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 14:59:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 15:05:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 15:05:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 15:09:01 TheCybers CRON[6609]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 15:09:01 TheCybers CRON[6609]: pam_unix(cron:session): session closed for user root
+Oct  2 15:11:33 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 15:11:33 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 15:17:01 TheCybers CRON[7116]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 15:17:01 TheCybers CRON[7116]: pam_unix(cron:session): session closed for user root
+Oct  2 15:45:39 TheCybers systemd-logind[653]: Operation 'sleep' finished.
+Oct  2 15:45:40 TheCybers sshd[715]: Received SIGHUP; restarting.
+Oct  2 15:45:40 TheCybers sshd[715]: Server listening on 0.0.0.0 port 22.
+Oct  2 15:45:40 TheCybers sshd[715]: Server listening on :: port 22.
+Oct  2 15:45:40 TheCybers sshd[715]: Received SIGHUP; restarting.
+Oct  2 15:45:40 TheCybers sshd[715]: Server listening on 0.0.0.0 port 22.
+Oct  2 15:45:40 TheCybers sshd[715]: Server listening on :: port 22.
+Oct  2 16:09:01 TheCybers CRON[8092]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 16:09:01 TheCybers CRON[8092]: pam_unix(cron:session): session closed for user root
+Oct  2 16:17:01 TheCybers CRON[8256]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 16:17:01 TheCybers CRON[8256]: pam_unix(cron:session): session closed for user root
+Oct  2 16:39:01 TheCybers CRON[8605]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 16:39:01 TheCybers CRON[8605]: pam_unix(cron:session): session closed for user root
+Oct  2 16:48:00 TheCybers systemd-logind[653]: Lid closed.
+Oct  2 16:50:00 TheCybers systemd-logind[653]: Lid opened.
+Oct  2 16:50:02 TheCybers systemd-logind[653]: Operation 'sleep' finished.
+Oct  2 16:50:30 TheCybers sshd[715]: Received SIGHUP; restarting.
+Oct  2 16:50:30 TheCybers sshd[715]: Server listening on 0.0.0.0 port 22.
+Oct  2 16:50:30 TheCybers sshd[715]: Server listening on :: port 22.
+Oct  2 16:50:30 TheCybers sshd[715]: Received SIGHUP; restarting.
+Oct  2 16:50:30 TheCybers sshd[715]: Server listening on 0.0.0.0 port 22.
+Oct  2 16:50:30 TheCybers sshd[715]: Server listening on :: port 22.
+Oct  2 16:52:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 16:52:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 16:58:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 16:58:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 17:04:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 17:04:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 17:09:01 TheCybers CRON[10378]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 17:09:01 TheCybers CRON[10378]: pam_unix(cron:session): session closed for user root
+Oct  2 17:10:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 17:10:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 17:15:43 TheCybers unix_chkpwd[10904]: password check failed for user (alex)
+Oct  2 17:15:43 TheCybers kcheckpass[10902]: pam_unix(kde:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser= rhost=  user=alex
+Oct  2 17:15:43 TheCybers kcheckpass[10902]: Authentication failure for alex (invoked by uid 1000)
+Oct  2 17:16:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 17:16:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 17:17:01 TheCybers CRON[11313]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 17:17:01 TheCybers CRON[11313]: pam_unix(cron:session): session closed for user root
+Oct  2 17:22:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 17:22:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 17:28:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 17:28:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 17:34:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 17:34:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 17:39:01 TheCybers CRON[12851]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 17:39:01 TheCybers CRON[12851]: pam_unix(cron:session): session closed for user root
+Oct  2 17:40:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 17:40:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 17:46:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 17:46:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 17:52:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 17:52:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 17:58:40 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 17:58:40 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 18:02:07 TheCybers systemd-logind[653]: Lid closed.
+Oct  2 19:34:20 TheCybers systemd-logind[653]: Lid opened.
+Oct  2 19:34:20 TheCybers systemd-logind[653]: Operation 'sleep' finished.
+Oct  2 19:38:05 TheCybers sshd[715]: Received SIGHUP; restarting.
+Oct  2 19:38:05 TheCybers sshd[715]: Server listening on 0.0.0.0 port 22.
+Oct  2 19:38:05 TheCybers sshd[715]: Server listening on :: port 22.
+Oct  2 19:39:01 TheCybers CRON[15382]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 19:39:01 TheCybers CRON[15382]: pam_unix(cron:session): session closed for user root
+Oct  2 20:05:29 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-update auth (only_trusted:1)
+Oct  2 20:05:43 TheCybers polkitd(authority=local): Operator of unix-session:3 successfully authenticated as unix-user:root to gain TEMPORARY authorization for action org.freedesktop.packagekit.system-update for system-bus-name::1.1124 [/usr/bin/plasma-discover --mode update] (owned by unix-user:alex)
+Oct  2 20:05:43 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-update
+Oct  2 20:05:52 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 20:05:52 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 20:09:02 TheCybers CRON[16354]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 20:09:02 TheCybers CRON[16354]: pam_unix(cron:session): session closed for user root
+Oct  2 20:17:01 TheCybers CRON[16482]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 20:17:01 TheCybers CRON[16482]: pam_unix(cron:session): session closed for user root
+Oct  2 20:30:47 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 20:30:47 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 20:36:47 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 20:36:47 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 20:39:01 TheCybers CRON[17524]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 20:39:01 TheCybers CRON[17524]: pam_unix(cron:session): session closed for user root
+Oct  2 20:42:47 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 20:42:47 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 20:48:47 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 20:48:47 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 20:54:47 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 20:54:47 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 21:00:47 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 21:00:47 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 21:06:47 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 21:06:47 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 21:09:01 TheCybers CRON[19815]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 21:09:01 TheCybers CRON[19815]: pam_unix(cron:session): session closed for user root
+Oct  2 21:09:32 TheCybers unix_chkpwd[19874]: password check failed for user (alex)
+Oct  2 21:09:32 TheCybers kcheckpass[19872]: pam_unix(kde:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser= rhost=  user=alex
+Oct  2 21:09:32 TheCybers kcheckpass[19872]: Authentication failure for alex (invoked by uid 1000)
+Oct  2 21:12:47 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 21:12:47 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 21:17:01 TheCybers CRON[20360]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  2 21:17:01 TheCybers CRON[20360]: pam_unix(cron:session): session closed for user root
+Oct  2 21:18:47 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 21:18:47 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 21:24:47 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  2 21:24:47 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  2 21:29:26 TheCybers systemd-logind[653]: Lid closed.
+Oct  3 07:33:12 TheCybers systemd-logind[653]: Lid opened.
+Oct  3 07:33:13 TheCybers systemd-logind[653]: Operation 'sleep' finished.
+Oct  3 07:33:14 TheCybers sshd[715]: Received SIGHUP; restarting.
+Oct  3 07:33:14 TheCybers sshd[715]: Server listening on 0.0.0.0 port 22.
+Oct  3 07:33:14 TheCybers sshd[715]: Server listening on :: port 22.
+Oct  3 07:33:14 TheCybers sshd[715]: Received SIGHUP; restarting.
+Oct  3 07:33:14 TheCybers sshd[715]: Server listening on 0.0.0.0 port 22.
+Oct  3 07:33:14 TheCybers sshd[715]: Server listening on :: port 22.
+Oct  3 07:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 07:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 07:39:01 TheCybers CRON[22209]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 07:39:01 TheCybers CRON[22209]: pam_unix(cron:session): session closed for user root
+Oct  3 07:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 07:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 07:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 07:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 07:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 07:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 07:58:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 07:58:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 08:04:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 08:04:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 08:08:18 TheCybers su[24645]: Successful su for nobody by root
+Oct  3 08:08:18 TheCybers su[24645]: + ??? root:nobody
+Oct  3 08:08:18 TheCybers su[24645]: pam_unix(su:session): session opened for user nobody by (uid=0)
+Oct  3 08:08:18 TheCybers systemd: pam_unix(systemd-user:session): session opened for user nobody by (uid=0)
+Oct  3 08:08:18 TheCybers systemd-logind[653]: New session c7 of user nobody.
+Oct  3 08:08:18 TheCybers su[24645]: pam_unix(su:session): session closed for user nobody
+Oct  3 08:08:18 TheCybers systemd-logind[653]: Removed session c7.
+Oct  3 08:08:18 TheCybers su[24650]: Successful su for nobody by root
+Oct  3 08:08:18 TheCybers su[24650]: + ??? root:nobody
+Oct  3 08:08:18 TheCybers systemd: pam_unix(systemd-user:session): session closed for user nobody
+Oct  3 08:08:18 TheCybers su[24650]: pam_unix(su:session): session opened for user nobody by (uid=0)
+Oct  3 08:08:18 TheCybers systemd-logind[653]: New session c8 of user nobody.
+Oct  3 08:08:18 TheCybers systemd: pam_unix(systemd-user:session): session opened for user nobody by (uid=0)
+Oct  3 08:08:18 TheCybers su[24650]: pam_unix(su:session): session closed for user nobody
+Oct  3 08:08:18 TheCybers su[24663]: Successful su for nobody by root
+Oct  3 08:08:18 TheCybers su[24663]: + ??? root:nobody
+Oct  3 08:08:18 TheCybers su[24663]: pam_unix(su:session): session opened for user nobody by (uid=0)
+Oct  3 08:08:18 TheCybers systemd-logind[653]: Removed session c8.
+Oct  3 08:08:18 TheCybers systemd: pam_unix(systemd-user:session): session closed for user nobody
+Oct  3 08:08:18 TheCybers systemd-logind[653]: New session c9 of user nobody.
+Oct  3 08:08:18 TheCybers systemd: pam_unix(systemd-user:session): session opened for user nobody by (uid=0)
+Oct  3 08:08:24 TheCybers su[24663]: pam_unix(su:session): session closed for user nobody
+Oct  3 08:08:24 TheCybers systemd-logind[653]: Removed session c9.
+Oct  3 08:08:24 TheCybers systemd: pam_unix(systemd-user:session): session closed for user nobody
+Oct  3 08:09:01 TheCybers CRON[24785]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 08:09:01 TheCybers CRON[24785]: pam_unix(cron:session): session closed for user root
+Oct  3 08:10:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 08:10:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 08:16:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 08:16:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 08:17:01 TheCybers CRON[25711]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 08:17:01 TheCybers CRON[25711]: pam_unix(cron:session): session closed for user root
+Oct  3 08:22:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 08:22:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 08:28:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 08:28:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 08:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 08:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 08:39:01 TheCybers CRON[27111]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 08:39:01 TheCybers CRON[27111]: pam_unix(cron:session): session closed for user root
+Oct  3 08:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 08:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 08:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 08:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 08:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 08:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 08:58:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 08:58:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 09:04:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 09:04:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 09:09:01 TheCybers CRON[29419]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 09:09:01 TheCybers CRON[29419]: pam_unix(cron:session): session closed for user root
+Oct  3 09:10:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 09:10:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 09:16:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 09:16:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 09:17:01 TheCybers CRON[30329]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 09:17:01 TheCybers CRON[30329]: pam_unix(cron:session): session closed for user root
+Oct  3 09:22:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 09:22:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 09:28:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 09:28:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 09:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 09:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 09:39:01 TheCybers CRON[31787]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 09:39:01 TheCybers CRON[31787]: pam_unix(cron:session): session closed for user root
+Oct  3 09:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 09:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 09:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 09:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 09:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 09:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 09:58:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 09:58:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 10:04:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 10:04:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 10:09:01 TheCybers CRON[2298]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 10:09:01 TheCybers CRON[2298]: pam_unix(cron:session): session closed for user root
+Oct  3 10:10:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 10:10:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 10:16:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 10:16:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 10:17:01 TheCybers CRON[3461]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 10:17:01 TheCybers CRON[3461]: pam_unix(cron:session): session closed for user root
+Oct  3 10:22:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 10:22:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 10:28:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 10:28:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 10:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 10:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 10:39:01 TheCybers CRON[4883]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 10:39:01 TheCybers CRON[4883]: pam_unix(cron:session): session closed for user root
+Oct  3 10:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 10:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 10:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 10:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 10:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 10:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 10:58:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 10:58:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 11:04:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 11:04:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 11:09:01 TheCybers CRON[7172]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 11:09:01 TheCybers CRON[7172]: pam_unix(cron:session): session closed for user root
+Oct  3 11:10:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 11:10:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 11:16:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 11:16:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 11:17:01 TheCybers CRON[8113]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 11:17:01 TheCybers CRON[8113]: pam_unix(cron:session): session closed for user root
+Oct  3 11:22:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 11:22:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 11:28:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 11:28:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 11:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 11:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 11:39:01 TheCybers CRON[9504]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 11:39:01 TheCybers CRON[9504]: pam_unix(cron:session): session closed for user root
+Oct  3 11:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 11:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 11:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 11:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 11:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 11:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 11:58:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 11:58:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 12:04:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 12:04:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 12:09:01 TheCybers CRON[11853]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 12:09:01 TheCybers CRON[11853]: pam_unix(cron:session): session closed for user root
+Oct  3 12:10:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 12:10:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 12:16:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 12:16:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 12:17:01 TheCybers CRON[12751]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 12:17:01 TheCybers CRON[12751]: pam_unix(cron:session): session closed for user root
+Oct  3 12:22:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 12:22:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 12:28:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 12:28:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 12:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 12:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 12:39:01 TheCybers CRON[14241]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 12:39:01 TheCybers CRON[14241]: pam_unix(cron:session): session closed for user root
+Oct  3 12:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 12:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 12:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 12:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 12:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 12:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 12:58:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 12:58:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 13:04:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 13:04:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 13:09:01 TheCybers CRON[16521]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 13:09:01 TheCybers CRON[16521]: pam_unix(cron:session): session closed for user root
+Oct  3 13:10:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 13:10:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 13:16:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 13:16:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 13:17:01 TheCybers CRON[17474]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 13:17:01 TheCybers CRON[17474]: pam_unix(cron:session): session closed for user root
+Oct  3 13:22:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 13:22:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 13:28:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 13:28:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 13:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 13:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 13:39:01 TheCybers CRON[18982]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 13:39:01 TheCybers CRON[18982]: pam_unix(cron:session): session closed for user root
+Oct  3 13:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 13:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 13:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 13:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 13:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 13:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 13:58:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 13:58:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 14:04:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 14:04:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 14:09:01 TheCybers CRON[21357]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 14:09:01 TheCybers CRON[21357]: pam_unix(cron:session): session closed for user root
+Oct  3 14:10:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 14:10:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 14:16:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 14:16:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 14:17:01 TheCybers CRON[22268]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 14:17:01 TheCybers CRON[22268]: pam_unix(cron:session): session closed for user root
+Oct  3 14:22:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 14:22:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 14:28:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 14:28:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 14:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 14:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 14:39:01 TheCybers CRON[23635]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 14:39:01 TheCybers CRON[23635]: pam_unix(cron:session): session closed for user root
+Oct  3 14:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 14:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 14:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 14:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 14:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 14:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 14:58:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 14:58:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 15:04:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 15:04:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 15:09:01 TheCybers CRON[26104]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 15:09:01 TheCybers CRON[26104]: pam_unix(cron:session): session closed for user root
+Oct  3 15:10:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 15:10:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 15:16:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 15:16:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 15:17:01 TheCybers CRON[27026]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 15:17:01 TheCybers CRON[27026]: pam_unix(cron:session): session closed for user root
+Oct  3 15:22:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 15:22:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 15:28:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 15:28:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 15:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 15:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 15:39:01 TheCybers CRON[28421]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 15:39:01 TheCybers CRON[28421]: pam_unix(cron:session): session closed for user root
+Oct  3 15:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 15:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 15:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 15:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 15:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 15:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 15:58:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 15:58:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 16:04:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 16:04:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 16:09:01 TheCybers CRON[30777]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 16:09:01 TheCybers CRON[30777]: pam_unix(cron:session): session closed for user root
+Oct  3 16:10:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 16:10:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 16:16:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 16:16:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 16:17:01 TheCybers CRON[31774]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 16:17:01 TheCybers CRON[31774]: pam_unix(cron:session): session closed for user root
+Oct  3 16:22:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 16:22:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 16:28:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 16:28:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 16:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 16:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 16:39:01 TheCybers CRON[982]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 16:39:01 TheCybers CRON[982]: pam_unix(cron:session): session closed for user root
+Oct  3 16:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 16:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 16:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 16:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 16:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 16:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 16:58:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 16:58:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 17:04:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 17:04:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 17:09:01 TheCybers CRON[4080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 17:09:01 TheCybers CRON[4080]: pam_unix(cron:session): session closed for user root
+Oct  3 17:10:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 17:10:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 17:16:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 17:16:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 17:17:01 TheCybers CRON[5114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 17:17:01 TheCybers CRON[5114]: pam_unix(cron:session): session closed for user root
+Oct  3 17:22:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 17:22:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 17:28:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 17:28:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 17:34:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 17:34:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 17:39:01 TheCybers CRON[6535]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 17:39:01 TheCybers CRON[6535]: pam_unix(cron:session): session closed for user root
+Oct  3 17:40:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 17:40:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 17:46:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 17:46:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 17:52:28 TheCybers PackageKit: uid 1000 is trying to obtain org.freedesktop.packagekit.system-sources-refresh auth (only_trusted:0)
+Oct  3 17:52:28 TheCybers PackageKit: uid 1000 obtained auth for org.freedesktop.packagekit.system-sources-refresh
+Oct  3 17:57:28 TheCybers systemd-logind[653]: Lid closed.
+Oct  3 17:57:56 TheCybers systemd-logind[653]: Lid opened.
+Oct  3 17:57:56 TheCybers systemd-logind[653]: Lid closed.
+Oct  3 17:57:56 TheCybers systemd-logind[653]: Operation 'sleep' finished.
+Oct  3 17:57:58 TheCybers sshd[715]: Received SIGHUP; restarting.
+Oct  3 17:57:58 TheCybers sshd[715]: Server listening on 0.0.0.0 port 22.
+Oct  3 17:57:58 TheCybers sshd[715]: Server listening on :: port 22.
+Oct  3 17:57:58 TheCybers sshd[715]: Received SIGHUP; restarting.
+Oct  3 17:57:58 TheCybers sshd[715]: Server listening on 0.0.0.0 port 22.
+Oct  3 17:57:58 TheCybers sshd[715]: Server listening on :: port 22.
+Oct  3 18:09:01 TheCybers CRON[8476]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 18:09:01 TheCybers CRON[8476]: pam_unix(cron:session): session closed for user root
+Oct  3 18:17:01 TheCybers CRON[8580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 18:17:01 TheCybers CRON[8580]: pam_unix(cron:session): session closed for user root
+Oct  3 19:07:57 TheCybers systemd-logind[653]: Lid opened.
+Oct  3 19:07:57 TheCybers systemd-logind[653]: Operation 'sleep' finished.
+Oct  3 19:09:01 TheCybers CRON[8778]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 19:09:01 TheCybers CRON[8778]: pam_unix(cron:session): session closed for user root
+Oct  3 19:15:05 TheCybers sshd[715]: Received SIGHUP; restarting.
+Oct  3 19:15:05 TheCybers sshd[715]: Server listening on 0.0.0.0 port 22.
+Oct  3 19:15:05 TheCybers sshd[715]: Server listening on :: port 22.
+Oct  3 19:17:01 TheCybers CRON[9053]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 19:17:01 TheCybers CRON[9053]: pam_unix(cron:session): session closed for user root
+Oct  3 19:39:01 TheCybers CRON[9459]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 19:39:01 TheCybers CRON[9459]: pam_unix(cron:session): session closed for user root
+Oct  3 20:09:01 TheCybers CRON[10947]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 20:09:01 TheCybers CRON[10947]: pam_unix(cron:session): session closed for user root
+Oct  3 20:17:01 TheCybers CRON[11336]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 20:17:01 TheCybers CRON[11336]: pam_unix(cron:session): session closed for user root
+Oct  3 20:39:01 TheCybers CRON[11575]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 20:39:01 TheCybers CRON[11575]: pam_unix(cron:session): session closed for user root
+Oct  3 21:09:01 TheCybers CRON[12372]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 21:09:01 TheCybers CRON[12372]: pam_unix(cron:session): session closed for user root
+Oct  3 21:17:01 TheCybers CRON[12489]: pam_unix(cron:session): session opened for user root by (uid=0)
+Oct  3 21:17:01 TheCybers CRON[12489]: pam_unix(cron:session): session closed for user root
+Oct  3 21:24:43 TheCybers sshd[12587]: Accepted password for alex from 192.168.42.117 port 52166 ssh2
+Oct  3 21:24:43 TheCybers sshd[12587]: pam_unix(sshd:session): session opened for user alex by (uid=0)
+Oct  3 21:24:43 TheCybers systemd-logind[653]: New session 134 of user alex.
+Oct  3 21:24:46 TheCybers sshd[12593]: Received disconnect from 192.168.42.117 port 52166:11: disconnected by user
+Oct  3 21:24:46 TheCybers sshd[12593]: Disconnected from 192.168.42.117 port 52166
+Oct  3 21:24:46 TheCybers sshd[12587]: pam_unix(sshd:session): session closed for user alex
+Oct  3 21:24:46 TheCybers systemd-logind[653]: Removed session 134.
+Oct  3 21:25:00 TheCybers sshd[12606]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.42.117  user=thecybers
+Oct  3 21:25:03 TheCybers sshd[12606]: Failed password for thecybers from 192.168.42.117 port 52168 ssh2
+Oct  3 21:25:09 TheCybers sshd[12606]: Accepted password for thecybers from 192.168.42.117 port 52168 ssh2
+Oct  3 21:25:09 TheCybers sshd[12606]: pam_unix(sshd:session): session opened for user thecybers by (uid=0)
+Oct  3 21:25:09 TheCybers systemd-logind[653]: New session 135 of user thecybers.
+Oct  3 21:25:09 TheCybers systemd: pam_unix(systemd-user:session): session opened for user thecybers by (uid=0)
+Oct  3 21:25:11 TheCybers sshd[12615]: Received disconnect from 192.168.42.117 port 52168:11: disconnected by user
+Oct  3 21:25:11 TheCybers sshd[12615]: Disconnected from 192.168.42.117 port 52168
+Oct  3 21:25:11 TheCybers sshd[12606]: pam_unix(sshd:session): session closed for user thecybers
+Oct  3 21:25:11 TheCybers systemd-logind[653]: Removed session 135.
+Oct  3 21:25:11 TheCybers systemd: pam_unix(systemd-user:session): session closed for user thecybers
+Oct  3 21:25:25 TheCybers sshd[12640]: Accepted password for sander from 192.168.42.117 port 52172 ssh2
+Oct  3 21:25:25 TheCybers sshd[12640]: pam_unix(sshd:session): session opened for user sander by (uid=0)
+Oct  3 21:25:25 TheCybers systemd-logind[653]: New session 137 of user sander.
+Oct  3 21:25:25 TheCybers systemd: pam_unix(systemd-user:session): session opened for user sander by (uid=0)
+Oct  3 21:25:28 TheCybers sshd[12649]: Received disconnect from 192.168.42.117 port 52172:11: disconnected by user
+Oct  3 21:25:28 TheCybers sshd[12649]: Disconnected from 192.168.42.117 port 52172
+Oct  3 21:25:28 TheCybers sshd[12640]: pam_unix(sshd:session): session closed for user sander
+Oct  3 21:25:28 TheCybers systemd-logind[653]: Removed session 137.
+Oct  3 21:25:28 TheCybers systemd: pam_unix(systemd-user:session): session closed for user sander
+Oct  3 21:26:26 TheCybers sudo:     alex : TTY=pts/1 ; PWD=/var/log ; USER=root ; COMMAND=/bin/cp auth.log /home/alex/Documentos/auth3.log
+Oct  3 21:26:26 TheCybers sudo: pam_unix(sudo:session): session opened for user root by alex(uid=0)
